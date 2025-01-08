@@ -48,9 +48,6 @@
   <img img align="center" src="https://github-readme-stats.vercel.app/api?username=GufferRandom&show_icons=true&locale=en" alt="GufferRandom"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GufferRandom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<p></></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GufferRandom&" alt="GufferRandom" /></p>
-
 ###
 
 
